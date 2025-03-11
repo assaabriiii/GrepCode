@@ -2,7 +2,7 @@
 
 I've wrote this out of nowhere and i was bored so don't be a genius and add brick to this code, i've just wanted to help myself finding code pieces among other code pieces and yeah here it is.
 
-![Grepcode Demo](https://github.com/assaabriiii/GrepCode/demo.png)
+![Grepcode Demo](demo.png)
 
 ## Features ✨
 
